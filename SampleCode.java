@@ -17,9 +17,9 @@ public class SampleCode
 		
 		// prints variable values
 		
-	System.out.println("name: BERTCHANWAY RASONABE SABINO");
+	System.out.println("name: pedro");
 	System.out.println("age: 18");
-	System.out.println("course: BSIT 1-C");
+	System.out.println("course: BSIT 12");
 	System.out.println("score: 123");
 	System.out.println("temperature: 40");
 	System.out.println("num2: -1234567890L");
