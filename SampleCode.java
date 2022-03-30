@@ -4,7 +4,7 @@ public class SampleCode
 	{
 		System.out.println("pedro");
 		
-		String name = "BERTCHANWAY RASONABE SABINO";
+		String name = "pedro";
 		int age = 18;
 		String course= "BSIT 12";
 		byte score = 123;
