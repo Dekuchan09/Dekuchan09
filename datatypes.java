@@ -2,9 +2,9 @@ public class datatypes
 {
 	public static void main(String[] args)
 	{
-		System.out.println("BERTCHANWAY SABINO"); // print greetings
+		System.out.println("jose"); // print greetings
 		
-		String name = "bertchanway sabino";
+		String name = "jose";
 		int Age = 18;
 		
 		double height = 6.5;
