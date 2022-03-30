@@ -2,7 +2,7 @@ public class cooperator
 {
 	public static void main(String[] args)
 	{
-		System.out.println("BERTCHANWAY RASONABE SABINO");
+		System.out.println("juan");
 System.out.println("Arithmetic operator: Variable a holds 55 and variable b hold 50 nd variable c hold 2 and variable d hold 25 ");
 		int a= 55;
 		int b= 50;
