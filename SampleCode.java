@@ -2,11 +2,11 @@ public class SampleCode
 {
 	public static void main(String[] args)
 	{
-		System.out.println("BERTCHANWAY SABINO");
+		System.out.println("pedro");
 		
 		String name = "BERTCHANWAY RASONABE SABINO";
 		int age = 18;
-		String course= "BSIT 1-C";
+		String course= "BSIT 12";
 		byte score = 123;
 		short temperature = 40;
 		long num2 = -1234567890L;
